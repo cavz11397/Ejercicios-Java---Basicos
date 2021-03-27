@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í¨»8ğÙíŞ†/
+M
+java:S1068"+Remove this unused "teclado" private field.(†şËúÿÿÿÿ8°êİŞ†/
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(²Ş§¹üÿÿÿÿ8˜ßãŞ†/
+G
+java:S5411"*Use the primitive boolean expression here.(‰ÖÇÍ8ûââŞ†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(åıÌĞûÿÿÿÿ8±çõŞ†/
+
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«£´ã8§äïŞ†/

@@ -1,0 +1,69 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š˜® şÿÿÿÿ8ÆõØ†/
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(ïŠÊÆÿÿÿÿÿ8­ÅÿÚ†/
+z	java:S135P"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8­ÅÿÚ†/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸„ƒÛ8®±ñ×†/
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(²€”ûÿÿÿÿ8£Ù†/
+^
+java:S1854û"@Remove this useless assignment to local variable "ejecutandose".(İ‹û™8ß¨·‡/
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(ñ¿€ëÿÿÿÿÿ8­ÅÿÚ†/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(İµ¨ëşÿÿÿÿ8­ÅÿÚ†/
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(êÎ„üÿÿÿÿ8ßñûİ†/
+V	java:S106Ä"9Replace this use of System.out or System.err by a logger.(üÑ¥8ïÜ¨Û†/
+?
+java:S1643"Use a StringBuilder instead.(â¡ÕÕşÿÿÿÿ8­ÅÿÚ†/
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(Ö¯°8Æç¤×†/
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(²€”ûÿÿÿÿ8­â–Ù†/
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(üÑ¥8­ÅÿÚ†/
+T
+java:S1481ó"1Remove this unused "ejecutandose" local variable.(²îÉûÿÿÿÿ8µ¥µ‚‡/
+O
+java:S1481û"1Remove this unused "ejecutandose" local variable.(İ‹û™8ß¨·‡/
+T
+java:S1481÷"1Remove this unused "ejecutandose" local variable.(°ê¬úùÿÿÿÿ8šÏ°‚‡/
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(’¯¹º8Â”¦×†/
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(¢ê•ş8ãİ£Ş†/
+?
+java:S1643"Use a StringBuilder instead.(¢šñÿÿÿÿÿ8­ÅÿÚ†/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜¶Îø8Ò…ŒØ†/
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(ÏÍş8­ÅÿÚ†/
+I
+java:S2440û"+Remove this instantiation of "Ejercicio18".(İ‹û™8ÈÌ­‚‡/
+[	java:S106È"9Replace this use of System.out or System.err by a logger.(½•æ¢úÿÿÿÿ8¿ö¿Û†/
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(çÎã…8à–Ş†/
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(ïŠÊÆÿÿÿÿÿ8­ÅÿÚ†/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(’¯¹º8ÈŸ…Ø†/
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(—Äç“8­ÅÿÚ†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œ¿Úşÿÿÿÿ8­ÅÿÚ†/
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(Äú‘8…÷ùİ†/
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(ŒÏÍ—8Çˆ‹÷†/
+C	java:S131""Add a default case to this switch.(ËÇèúÿÿÿÿ8­€Û†/
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(ÇÑ÷åıÿÿÿÿ8­ÅÿÚ†/
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(Ö¯°8ÈŸ…Ø†/
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(ñ¿€ëÿÿÿÿÿ8­ÅÿÚ†/
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(“ß¾ıÿÿÿÿ8îËØ†/
+[	java:S106Ø"9Replace this use of System.out or System.err by a logger.(öÎ¿øÿÿÿÿ8‡·•Ş†/
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¿´»Ş†/
+V	java:S106Ö"9Replace this use of System.out or System.err by a logger.(çÎã…8ëƒ”Ş†/
+c
+java:S1854ó"@Remove this useless assignment to local variable "ejecutandose".(²îÉûÿÿÿÿ8µ¥µ‚‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä¥•úùÿÿÿÿ8†¶ÑØ†/
+T	java:S106h"9Replace this use of System.out or System.err by a logger.(ğÓ«'8­ÅÿÚ†/
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(•‰Á‰8à–Ş†/
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ÿÈ­Ãøÿÿÿÿ8¢óÊÛ†/
+V	java:S106µ"9Replace this use of System.out or System.err by a logger.(Ğ¬‰Ñ8ÅÈÀ÷†/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(†ŞŒ÷úÿÿÿÿ8­ÅÿÚ†/
+?
+java:S1643"Use a StringBuilder instead.(¢šñÿÿÿÿÿ8­ÅÿÚ†/
+Q
+java:S1066U"/Merge this if statement with the enclosing one.(ÅˆÃûùÿÿÿÿ8­ÅÿÚ†/
+c
+java:S1854÷"@Remove this useless assignment to local variable "ejecutandose".(°ê¬úùÿÿÿÿ8šÏ°‚‡/
+T	java:S106["9Replace this use of System.out or System.err by a logger.(ğÓ«'8­ÅÿÚ†/
+V	java:S106ª"9Replace this use of System.out or System.err by a logger.(¢†Éº8­ÅÿÚ†/
+?
+java:S1643Ÿ"Use a StringBuilder instead.(â¡ÕÕşÿÿÿÿ8­ÅÿÚ†/
+N
+java:S2440ó"+Remove this instantiation of "Ejercicio16".(²îÉûÿÿÿÿ8‘…¼‚‡/
+N
+java:S2440÷"+Remove this instantiation of "Ejercicio17".(°ê¬úùÿÿÿÿ8‘…¼‚‡/

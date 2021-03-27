@@ -1,0 +1,9 @@
+
+M
+java:S1172C"+Remove this unused method parameter "sexo".(®ã®†úÿÿÿÿ8âµÛà†/
+p	java:S116"ORename this field "Sexo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏâûÈûÿÿÿÿ8¤ä˜ß†/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ıÑÇ·8âµÛà†/
+j	java:S116
+"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜØ¾8àÉ—ß†/
+ƒ
+java:S1488]"aImmediately return this expression instead of assigning it to the temporary variable "resultado".(Ò‹¬´ûÿÿÿÿ8ÁÓ¡á†/
