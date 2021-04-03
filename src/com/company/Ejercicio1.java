@@ -12,9 +12,9 @@ public class Ejercicio1 {
 
     public String Mayor(){
         String resultado;
-        if(getNum1()>getNum2()){
+        if(Comparision.greaterNumber(getNum1(),getNum2())){
             resultado="El primer numero es el mayor";
-        } else if(getNum1()<getNum2()){
+        } else if(Comparision.lessNumber(getNum1(),getNum2())){
             resultado="El segundo numero es el mayor";
         } else{
             resultado="Los dos numeros son iguales";

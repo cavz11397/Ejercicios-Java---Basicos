@@ -1,8 +1,8 @@
 
 C
 java:S14810"&Remove this unused "e" local variable.(ÚÍ…8È‘¼ÿ†/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ì¯Ñˆ8¯Ö¼ÿ†/
 Z	java:S1066"9Replace this use of System.out or System.err by a logger.(–ÁŠàúÿÿÿÿ8‰Äÿ†/
 R
 java:S18540"5Remove this useless assignment to local variable "e".(ÚÍ…8È‘¼ÿ†/
 Z	java:S1064"9Replace this use of System.out or System.err by a logger.(•ÆàÎşÿÿÿÿ8†Ãÿ†/
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ì¯Ñˆ8¯Ö¼ÿ†/

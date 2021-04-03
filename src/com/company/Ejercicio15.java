@@ -22,7 +22,7 @@ public class Ejercicio15 extends Main{
                     bandera=false;
                     break;
                 default:
-                    if(getEntrada()>7 || getEntrada()<1){
+                    if(Comparision.greaterNumber(getEntrada(),7) || Comparision.lessNumber(getEntrada(),1)){
                         System.out.println("OPCION INCORRECTO");
                     }
             }

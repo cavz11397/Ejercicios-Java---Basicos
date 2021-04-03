@@ -21,7 +21,7 @@ public class Lavadora extends Electrodomestico{
     @Override
     public void precioFinal(){
         super.precioFinal();
-        if(getCarga()>30.0){
+        if(Comparision.greaterNumber(getCarga().intValue(),30)){
             setPrecioBase(getPrecioBase()+50.0);
         }
     }

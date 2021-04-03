@@ -81,9 +81,9 @@ public class Ejercicio16 extends Main{
     public static void comprobarPesoEjercicio16(Persona p){
         Integer respuesta;
         respuesta=p.calcularIMC();
-        if(respuesta==-1){
+        if(Comparision.equalsNumbers(respuesta,-1)){
             System.out.println("Esta bien");
-        }else if(respuesta==0){
+        }else if(Comparision.equalsNumbers(respuesta,0)){
             System.out.println("Esta por debajo del peso ideal");
         }else{
             System.out.println("Tiene sobrepeso");

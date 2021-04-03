@@ -64,20 +64,31 @@ public class Electrodomestico {
     }
 
     public void precioFinal(){
-        if((getConsumoEnergetico().equals("A")) || (getPeso()>80)){
+        if(Comparision.orBoolean(
+                getConsumoEnergetico().equals("A"),
+                Comparision.greaterNumber(getPeso().intValue(),80))){
             setPrecioBase(100.0);
-        }else if((getConsumoEnergetico().equals("B"))
-                || ((getPeso()>=50) && (getPeso()<=79))){
+        }else if(Comparision.orBoolean(
+                    getConsumoEnergetico().equals("B"),
+                    Comparision.andBoolean(
+                        Comparision.greaterNumber(getPeso().intValue(),50),
+                        Comparision.equalOrLess(getPeso().intValue(),79)))){
             setPrecioBase(80.0);
         }else if(getConsumoEnergetico().equals("C")){
             setPrecioBase(60.0);
-        }else if((getConsumoEnergetico().equals("D"))
-                || ((getPeso()>=20) && (getPeso()<=49))){
+        }else if(Comparision.orBoolean(
+                    getConsumoEnergetico().equals("D"),
+                    Comparision.andBoolean(
+                            Comparision.equalOrGreater(getPeso().intValue(),20),
+                            Comparision.equalOrLess(getPeso().intValue(),49)))){
             setPrecioBase(50.0);
         }else if(getConsumoEnergetico().equals("E")){
             setPrecioBase(30.0);
-        }else if((getConsumoEnergetico().equals("F"))
-                || ((getPeso()>=0) && (getPeso()<=19))){
+        }else if(Comparision.orBoolean(
+                    getConsumoEnergetico().equals("F"),
+                    Comparision.andBoolean(
+                            Comparision.equalOrGreater(getPeso().intValue(),0),
+                            Comparision.equalOrLess(getPeso().intValue(),19)))){
             setPrecioBase(10.0);
         }
     }

@@ -82,7 +82,7 @@ public class Main {
             try{
                 eleccion=Integer.valueOf(teclado.nextLine());
                 if(limites.equals("SI")) {
-                    if (eleccion >= 1 && eleccion <= 18) {
+                    if (Comparision.andBoolean(Comparision.equalOrGreater(eleccion, 1), Comparision.equalOrLess(eleccion, 18))) {
                         break;
                     }
                     System.out.println("Ingrese un numero entre 1 y 18");
@@ -139,8 +139,8 @@ public class Main {
         String pares="2";
         String impares="1";
         Integer i=3;
-        while(i<100){
-            if(i%2==0){
+        while(Comparision.lessNumber(i,100)){
+            if(Comparision.equalsNumbers(i%2,0)){
                 pares+=" ,"+i;
             }else{
                 impares+=" ,"+i;
@@ -155,7 +155,7 @@ public class Main {
         String pares="2";
         String impares="1";
         for(int i=3;i<100;i++){
-            if(i%2==0){
+            if(Comparision.equalsNumbers(i%2,0)){
                 pares+=" ,"+i;
             }else{
                 impares+=" ,"+i;
@@ -230,7 +230,7 @@ public class Main {
         Integer entrada;
         do{
             entrada=elegir("NO");
-        }while(entrada>=1000);
+        }while(Comparision.equalOrGreater(entrada,1000));
         for(int i=entrada;i<=1000;i+=2){
             System.out.println(i);
         }
